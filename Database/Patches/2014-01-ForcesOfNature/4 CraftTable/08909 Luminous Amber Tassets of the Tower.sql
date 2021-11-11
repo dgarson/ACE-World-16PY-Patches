@@ -44,6 +44,7 @@ VALUES (8909, 53296 /* Luminous Amber: Tassets of the Tower */,   108 /* Chainma
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */,  6047 /* Amuli Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 25645 /* Leather Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 25647 /* Leather Pants */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 27218 /* Chiran Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 27224 /* Lorica Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 27231 /* Nariyid Leggings */, '2005-02-09 10:00:00')
@@ -55,4 +56,13 @@ VALUES (8909, 53296 /* Luminous Amber: Tassets of the Tower */,   108 /* Chainma
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 37202 /* Olthoi Celdon Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 37203 /* Olthoi Koujia Leggings */, '2005-02-09 10:00:00')
 	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 37201 /* Olthoi Amuli Leggings */, '2005-02-09 10:00:00')
-	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00');
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 24631 /* Fine Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 24632 /* Good Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 24633 /* Greater Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 24634 /* Lesser Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 37212 /* Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 30515 /* Gelidite Tassets */, '2005-02-09 10:00:00')
+	 , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 30516 /* Tassets of Leikotha's Tears' */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 38469 /* Celestial Hand Tassets */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 38478 /* Eldrytch Web Hand Tassets */, '2005-02-09 10:00:00')
+     , (8909, 53296 /* Luminous Amber: Tassets of the Tower */, 38487 /* Radiant Blood Hand Tassets */, '2005-02-09 10:00:00');

@@ -40,6 +40,7 @@ VALUES (8922, 53074 /* Empowered Amber: Tassets of Life */,   108 /* Chainmail T
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */,  6047 /* Amuli Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 25645 /* Leather Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 25647 /* Leather Pants */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 27218 /* Chiran Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 27224 /* Lorica Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 27231 /* Nariyid Leggings */, '2005-02-09 10:00:00')
@@ -51,4 +52,13 @@ VALUES (8922, 53074 /* Empowered Amber: Tassets of Life */,   108 /* Chainmail T
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 37202 /* Olthoi Celdon Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 37203 /* Olthoi Koujia Leggings */, '2005-02-09 10:00:00')
 	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 37201 /* Olthoi Amuli Leggings */, '2005-02-09 10:00:00')
-	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00');
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 24632 /* Fine Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 24633 /* Good Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 24634 /* Greater Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 24635 /* Lesser Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 37212 /* Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 30515 /* Gelidite Tassets */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 30516 /* Tassets of Leikotha's Tears' */, '2005-02-09 10:00:00')
+	 , (8922, 53074 /* Empowered Amber: Tassets of Life */, 38469 /* Celestial Hand Tassets */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 38478 /* Eldrytch Web Hand Tassets */, '2005-02-09 10:00:00')
+     , (8922, 53074 /* Empowered Amber: Tassets of Life */, 38487 /* Radiant Blood Hand Tassets */, '2005-02-09 10:00:00');

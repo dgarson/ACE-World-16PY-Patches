@@ -27,6 +27,7 @@ VALUES (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */,   108 
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */,   113 /* Yoroi Tassets */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 21159 /* Covenant Tassets */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 25652 /* Leather Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 28626 /* Diforsa Tassets */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 42756 /* Haebrean Tassets */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 43054 /* Knorr Academy Tassets */, '2005-02-09 10:00:00')
@@ -52,4 +53,13 @@ VALUES (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */,   108 
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 37202 /* Olthoi Celdon Leggings */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 37203 /* Olthoi Koujia Leggings */, '2005-02-09 10:00:00')
 	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 37201 /* Olthoi Amuli Leggings */, '2005-02-09 10:00:00')
-	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 25650 /* Leather Shorts */, '2005-02-09 10:00:00');
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 24632 /* Fine Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 24633 /* Good Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 24634 /* Greater Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 24635 /* Lesser Olthoi Tassets */, '2005-02-09 10:00:00')
+	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 37212 /* Olthoi Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 30515 /* Gelidite Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 30516 /* Tassets of Leikotha's Tears' */, '2005-02-09 10:00:00')
+	 , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 38469 /* Celestial Hand Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 38478 /* Eldrytch Web Hand Tassets */, '2005-02-09 10:00:00')
+     , (8927, 53024 /* Corrupted Amber: Tassets of the Corrupted Soul */, 38487 /* Radiant Blood Hand Tassets */, '2005-02-09 10:00:00');

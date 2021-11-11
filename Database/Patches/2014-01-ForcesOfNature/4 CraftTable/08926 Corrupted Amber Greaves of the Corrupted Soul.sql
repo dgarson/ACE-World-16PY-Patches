@@ -51,4 +51,14 @@ VALUES (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */,    65 
 	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 28622 /* Tenassa Leggings */, '2005-02-09 10:00:00')
 	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 37202 /* Olthoi Celdon Leggings */, '2005-02-09 10:00:00')
 	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 37203 /* Olthoi Koujia Leggings */, '2005-02-09 10:00:00')
-	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 37201 /* Olthoi Amuli Leggings */, '2005-02-09 10:00:00');
+	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 37201 /* Olthoi Amuli Leggings */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 24623 /* Fine Olthoi Greaves */, '2005-02-09 10:00:00')
+	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 24624 /* Good Olthoi Greaves */, '2005-02-09 10:00:00')
+	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 24897 /* Greater Olthoi Greaves */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 24898 /* Lesser Olthoi Greaves */, '2005-02-09 10:00:00')
+	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 37194 /* Olthoi Greaves */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 30514 /* Gelidite Greaves */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 30513 /* Greaves of Leikotha's Tears' */, '2005-02-09 10:00:00')
+	 , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 38466 /* Celestial Hand Greaves */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 38475 /* Eldrytch Web Hand Greaves */, '2005-02-09 10:00:00')
+     , (8926, 53023 /* Corrupted Amber: Greaves of the Corrupted Soul */, 38484 /* Radiant Blood Hand Greaves */, '2005-02-09 10:00:00');
